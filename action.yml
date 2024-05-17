@@ -1,5 +1,5 @@
-name: Snapcraft Action
-author: Samuel Meuli
+name: Snapcraft Build Action
+author: MakAndJo
 description: GitHub Action for setting up Snapcraft
 
 inputs:
